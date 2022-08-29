@@ -88,6 +88,7 @@ body{
     margin-bottom: 1.5em;
 }
 .second button{
+    cursor: pointer;
     outline: none;
     background-color: var(--bright-yellow);
     border: 1px solid var(--bright-yellow);
